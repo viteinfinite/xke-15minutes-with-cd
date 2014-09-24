@@ -17,14 +17,14 @@
 
 5. La recette (1 sprint -> 1 jour -> 10 minutes => release reportée)
 	- Les problèmes
-	- Release Android réportée
+	- Release Android réportée (G)
 
 6. Les devs
 	- Complexité des WS XML et JSON
 	- Comme on construit la page
-	- iOS (KIF)
-	- Android (Spoon / Sonar)
-	- Analytics
+	- iOS (KIF) (S)
+	- Android (Spoon / Sonar) (G)
+	- Analytics 
 	- Les modifs WS: le lendemain en prod (devops au top)
 		- En fait... Coda
 
