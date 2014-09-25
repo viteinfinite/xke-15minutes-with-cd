@@ -96,6 +96,11 @@ Google Images "Caradisiac"
 
 # Merci
 
+![](images/thanks_clap.gif)
+
 ---
 
 # Questions ?
+
+^ On a pas/plus le temps pour les questions
+
