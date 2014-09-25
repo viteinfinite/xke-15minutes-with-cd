@@ -3,6 +3,7 @@
 #[fit]15 minutes avec l'équipe Caradisiac
 
 ^ Comme vous pouvez le voir, c'était plutôt éprouvant...<br />
+C'était 15 minutes avec l'équipe Caradisiac<br />
 Merci de nous avoir écouté
 
 ---
@@ -94,7 +95,7 @@ Google Images "Caradisiac"
 
 ![](images/thanks_clap.gif)
 
-^ Vous êtes un public formidable
+^ Vous êtes vraiment un public formidable
 
 ---
 
