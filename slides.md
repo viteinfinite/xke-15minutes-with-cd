@@ -2,6 +2,22 @@
 
 ---
 
+![](images/title_daytona.jpg)
+
+#[fit]15 minutes avec l'équipe Caradisiac
+
+^ Comme vous pouvez le voir, c'était plutôt éprouvant...<br />
+Merci de nous avoir écouté
+
+---
+
+![fit](images/title_screenshot_caradisiac_search.png)
+
+^ On cherchait une image de fond pour notre présentation<br />
+Google Images "Caradisiac"
+
+---
+
 # TL;WL:
 
 ---
@@ -78,14 +94,8 @@
 
 ---
 
-#Merci
+# Merci
 
 ---
 
 # Questions ?
-
-
-===
-
-Smileys années 90
-Commentaires : appli très participative, trouver exemples commentaires droles
