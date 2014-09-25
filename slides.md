@@ -48,12 +48,89 @@ Google Images "Caradisiac"
 
 # La méthodo
 
-- Les sprints (1 semaine)
-- Daily 0, Rétro 0
-- Démo (Chromecast, Apple TV)
-- Piloté avec XL (Excel)
-- Magic estimation => CnV
-- Outils agiles
+---
+
+# La méthodo
+
+## La rétro
+### tous les jours
+#### Sauf ceux qui contiennent ":pig:" dans le nom
+
+---
+
+
+# La méthodo
+
+## Daily
+### tous les jours
+#### Sauf ceux qui contiennent ":pig:" dans le nom
+
+---
+
+# La méthodo
+
+## Daily
+### tous les jours
+
+---
+
+# La méthodo
+
+## Durée du sprint
+### 1 semaine
+
+---
+
+# La méthodo
+
+## Démo
+
+![](images/demo_appletv.jpg)
+
+---
+
+# La méthodo
+
+## Démo
+
+![](images/demo_chromecast.jpg)
+
+
+---
+
+# La méthodo
+
+## Magic Cycle en V
+
+---
+
+![](http://33.media.tumblr.com/e986dd7b4537cb6c5a11a684bc472ed2/tumblr_mx34dx3oty1t0a0k9o1_400.gif)
+
+---
+
+# La méthodo
+
+## Magic estimation
+
+---
+
+# La méthodo
+
+## Pilotage avec eXceL
+
+![inline](images/pilotage_xls.png)
+
+---
+
+# La méthodo
+
+## Pilotage avec XL
+
+![inline](images/pilotage_xl.jpg)
+
+---
+
+//TODO: [S] iOS Code très peu spécifique 
 
 ---
 
@@ -176,13 +253,13 @@ REST pour faire joli, pas pour Joachim<br />
 ---
 
 # La rétro
-![inline](images/IMG_5219.JPG)
+![inline](images/retro.jpg)
 
 ---
 
 # Le résultat / Android
 
-![inline fit](images/4.png)![inline fit](images/2.png)![inline fit](images/1.png)
+![inline fit](images/screenshot_playstore_01.png)![inline fit](images/screenshot_playstore_02.png)![inline fit](images/screenshot_playstore_03.png)
 
 ^ Bannières dans les screenshots
 
@@ -190,14 +267,14 @@ REST pour faire joli, pas pour Joachim<br />
 
 # Le résultat / iOS
 
-![](images/screen568x5681.jpeg)![inline fit](images/screen568x568 \(2\).jpeg)![inline fit](images/screen568x568.jpeg)
+![](images/screenshot_appstore_01.jpeg)![inline fit](images/screenshot_appstore_02.jpeg)![inline fit](images/screenshot_appstore_03.jpeg)
 
 ---
 
 # Applis sur les Stores
 
-![inline fill](images/Screen Shot 2014-09-25 at 14.16.47.png)
-![inline fill](images/Screen Shot 2014-09-25 at 14.27.30.png)
+![inline fill](images/store_playstore.png)
+![inline fill](images/store_appstore.png)
 
 ---
 
@@ -217,9 +294,9 @@ REST pour faire joli, pas pour Joachim<br />
 
 # Commentaires positifs
 
-![inline fit](images/Screen Shot 2014-09-25 at 14.09.11.png)
-![inline fit](images/Screen Shot 2014-09-25 at 14.09.16.png)
-![inline fit](images/Screen Shot 2014-09-25 at 14.13.04.png)
+![inline fit](images/commentaires_itunes_01.png)
+![inline fit](images/commentaires_itunes_02.png)
+![inline fit](images/commentaires_itunes_03.png)
 
 ^Linette est Aline
 
@@ -227,8 +304,8 @@ REST pour faire joli, pas pour Joachim<br />
 
 # Commentaires positifs
 
-![inline fit](images/Screen Shot 2014-09-25 at 14.40.59.png)
-![inline fit](images/Screen Shot 2014-09-25 at 14.41.48.png)
+![inline fit](images/commentaires_playstore_01.png)
+![inline fit](images/commentaires_playstore_02.png)
 
 ^ [S] A tel point qu'elle apparaît même dans les captures d'écran du store
 
