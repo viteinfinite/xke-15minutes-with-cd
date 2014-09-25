@@ -69,6 +69,56 @@ Google Images "Caradisiac"
 
 ---
 
+# Les services web
+
+## La compléxité
+
+---
+
+# Les services web
+
+## Du XML qui n'en est pas
+
+```
+<commentaire>
+  <line>
+     Salut <smiley mnemo=":hello:"/> les gamins <smiley mnemo=":lol:"/> !
+  </line>
+</commentaire>
+```
+
+> T'façon *<![CDATA[]]>* ça sert à rien
+
+^ [G]
+Leurs WS contiennent des balises XML à des endroits qui devraient contenir du texte<br />
+En plus de nous filer les WS sans content-type ils nous filent des XML invalides
+Ça serait trop facile sinon
+
+---
+
+![fit](images/ws_complexity.gif)
+
+^ [G]
+Mais du coup, sur Android j'ai 15 services en XML... et 1 en JSON<br />
+Connards<br />
+Sur iOS le ratio XML/JSON, c'est du 50/50
+
+---
+
+# Les services web
+
+- REST-like (mais pas RESTful)
+- XML + JSON
+ - content-type="text/plain"
+ - Tous les services sont en XML
+ - La moitié aussi dispo en JSON
+ - 1 WS est en JSON uniquement
+
+^ [G]
+REST pour faire joli, pas pour Joachim<br />
+
+---
+
 # La recette (1 sprint -> 1 jour -> 10 minutes => release reportée)
 
 - Les problèmes
