@@ -148,6 +148,8 @@ Google Images "Caradisiac"
 
 # Les services web
 
+![fit](images/ws_xoxo.png)
+
 ---
 
 ![original](images/ws_full.png)
@@ -204,6 +206,8 @@ Idéalement
   image="logos-ref/modele/modele--
     renault-clio-3/S5-modele--renault-clio-3.jpg" />
 ```
+
+^ [G]
 
 ---
 
@@ -308,6 +312,7 @@ REST pour faire joli, pas pour Joachim<br />
 ---
 
 # La rétro
+
 ![inline](images/retro.jpg)
 
 ---
@@ -354,7 +359,8 @@ C'est une grande histoire d'amour
 ![inline fit](images/commentaires_itunes_02.png)
 ![inline fit](images/commentaires_itunes_03.png)
 
-^Linette est Aline
+^ [S]
+Linette est Aline
 
 ---
 
