@@ -1,7 +1,3 @@
-# Titre
-
----
-
 ![](images/title_daytona.jpg)
 
 #[fit]15 minutes avec l'équipe Caradisiac
@@ -63,7 +59,7 @@ Google Images "Caradisiac"
 # Les devs
 
 - Complexité des WS XML et JSON
-- Comme on construit la page
+- Comment on construit la page
 - iOS (KIF) (S)
 - Android (Spoon / Sonar) (G)
 - Analytics
@@ -97,6 +93,8 @@ Google Images "Caradisiac"
 # Merci
 
 ![](images/thanks_clap.gif)
+
+^ Vous êtes un public formidable
 
 ---
 
