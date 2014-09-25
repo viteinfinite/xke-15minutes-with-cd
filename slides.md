@@ -53,17 +53,10 @@ Google Images "Caradisiac"
 # La méthodo
 
 ## La rétro
-### tous les jours
-#### Sauf ceux qui contiennent ":pig:" dans le nom
+### En fin de sprint
 
----
-
-
-# La méthodo
-
-## Daily
-### tous les jours
-#### Sauf ceux qui contiennent ":pig:" dans le nom
+^ [?]
+Et ben... pas chez nous non plus - aucune rétro
 
 ---
 
@@ -71,6 +64,9 @@ Google Images "Caradisiac"
 
 ## Daily
 ### tous les jours
+
+^ [?] Généralement on fait un daily tous les jours
+Et bien nous, on en faisait jamais
 
 ---
 
@@ -120,6 +116,9 @@ Google Images "Caradisiac"
 
 ![inline](images/pilotage_xls.png)
 
+^ [?]
+Oui Excel, l'outil agile
+
 ---
 
 # La méthodo
@@ -127,6 +126,11 @@ Google Images "Caradisiac"
 ## Pilotage avec XL
 
 ![inline](images/pilotage_xl.jpg)
+
+^[?]
+Au niveau de la méthodo, on a pris le choix de tout piloter par Excel<br />
+[? autre]
+- Non non, "éxel", pas "ixel"
 
 ---
 
@@ -151,14 +155,15 @@ Google Images "Caradisiac"
 ![fit](images/ws_xoxo.png)
 
 ^ [G]
-*transition*
+*TODO: transition*
 
 ---
 
 ![original](images/ws_full.png)
 
 ^ [G]
-Voila c'est cet espèce de truc déguelasse qu'il faut parser qu'on a en permanence
+Voila c'est cet espèce de truc déguelasse à parser qu'on a en permanence<br />
+Et je vous parle même pas des écrans de l'application où il faut appeler et cumuler 8 web services pour avoir un résultat
 
 ---
 
@@ -264,11 +269,19 @@ REST pour faire joli, pas pour Joachim<br />
 
 - Release Android réportée (G) // TODO
 
+^ [G] Et du coup ça m'a bien fait chier pour Android
+Parce que la recette, notre PO le fait le jour de la release
+[SLIDE: NORMAL]
+Et, alors qu'il aurait pu tester depuis 1 mois et demi une feature... todo
+
 ---
 
 # La recette
 
 ## [fit] 10 minutes
+
+^ [?]
+Ensemble: La recette: 10 minutes !
 
 ---
 
@@ -373,6 +386,7 @@ Linette est Aline
 ![inline fit](images/commentaires_playstore_02.png)
 
 ^ [S]
+Voici d'ailleurs quelques commentaires sur les stores
 A tel point qu'elle apparaît même dans les captures d'écran du store
 
 ---
@@ -387,17 +401,25 @@ TODO
 
 # Merci
 
+^ [?] On va vous parler de Caradisiac, une appli de news auto (comme turbo ou auto plus) qu'on a réalisé et qu'on a sorti dernièrement
+
+
 ---
 
 # Merci
 
 ![](images/thanks_clap.gif)
 
-^ Vous êtes vraiment un public formidable
+^ [?]
+Mais merci d'être venus si nombreux<br />
+[? autre]
+Même si vous aviez pas trop le choix<br />
+[?]
+Vous êtes vraiment un public formidable
 
 ---
 
 # Questions ?
 
-^ On a pas/plus le temps pour les questions
+^ On aura pas le temps pour les questions
 
