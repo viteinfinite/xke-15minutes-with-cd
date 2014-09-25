@@ -150,6 +150,9 @@ Google Images "Caradisiac"
 
 ![fit](images/ws_xoxo.png)
 
+^ [G]
+*transition*
+
 ---
 
 ![original](images/ws_full.png)
@@ -223,7 +226,7 @@ Idéalement
 </commentaire>
 ```
 
-> T'façon *<![CDATA[]]>* ça sert à rien
+> *<![CDATA[]]>* ? Connaît pas
 
 ^ [G]
 Leurs WS contiennent des balises XML à des endroits qui devraient contenir du texte<br />
