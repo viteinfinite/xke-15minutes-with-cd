@@ -24,7 +24,7 @@
 	- Comme on construit la page
 	- iOS (KIF) (S)
 	- Android (Spoon / Sonar) (G)
-	- Analytics 
+	- Analytics (S)
 	- Les modifs WS: le lendemain en prod (devops au top)
 		- En fait... Coda
 

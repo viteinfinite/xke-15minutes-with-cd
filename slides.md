@@ -81,16 +81,52 @@ Google Images "Caradisiac"
 
 # Fin projet
 
-- La rétro
-- Release-Congés-Release
+---
+
+# La rétro
+![inline](images/IMG_5219.JPG)
 
 ---
 
 # Conclusions
 
-- Screenshots
-- Applis sur les stores
-- Commentaires positifs
+---
+
+# Le résultat / Android
+
+![inline fit](images/4.png)![inline fit](images/2.png)![inline fit](images/1.png)
+
+^ Bannières dans les screenshots
+
+---
+
+# Le résultat / iOS
+
+![](images/screen568x5681.jpeg)![inline fit](images/screen568x568 \(2\).jpeg)![inline fit](images/screen568x568.jpeg)
+
+---
+
+# Applis sur les Stores
+
+![inline fill](images/Screen Shot 2014-09-25 at 14.16.47.png)
+![inline fill](images/Screen Shot 2014-09-25 at 14.27.30.png)
+
+---
+
+# Commentaires positifs
+
+![inline fit](images/Screen Shot 2014-09-25 at 14.09.11.png)
+![inline fit](images/Screen Shot 2014-09-25 at 14.09.16.png)
+![inline fit](images/Screen Shot 2014-09-25 at 14.13.04.png)
+
+^Linette est Aline
+
+---
+
+# Commentaires positifs
+
+![inline fit](images/Screen Shot 2014-09-25 at 14.40.59.png)
+![inline fit](images/Screen Shot 2014-09-25 at 14.41.48.png)
 
 ---
 
