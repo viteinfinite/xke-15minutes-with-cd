@@ -148,7 +148,62 @@ Google Images "Caradisiac"
 
 # Les services web
 
+---
+
+![original](images/ws_full.png)
+
+^ [G]
+Voila c'est cet espèce de truc déguelasse qu'il faut parser qu'on a en permanence
+
+---
+
+![original](images/ws_scream.gif)
+
+^ [G]
+Non pas ça
+
+---
+
+# Les services web
+
 ## La compléxité
+
+Actuellement
+
+```
+<result>
+  <_connexion_db>OK</_connexion_db>
+  <_erreurs/>
+  <_data>
+    <tag label="Clio 3" url="modele--renault-clio-3">
+    <tag label="Renault" type="brand"/>
+    <tag label="Clio" type="model"/>
+    <logo path="/logos-ref/modele">modele--renault-clio-3.jpg</logo>
+  </_data>
+</result>
+```
+
+- Nom: *tag[type="brand"] + " " + tag[url="<url>"]*
+- Image: *"http://images.caradisiac.com" + logo[path] + "/S5-" + logo*
+
+^ [G]
+Et encore, on a simplifié pour l'exemple parce qu'en vrai c'est plutôt ça
+
+---
+
+# Les services web
+
+## La compléxité
+
+![right](images/ws_clio3.png)
+
+Idéalement
+
+```
+<model name="Renault Clio 3"
+  image="logos-ref/modele/modele--
+    renault-clio-3/S5-modele--renault-clio-3.jpg" />
+```
 
 ---
 
@@ -288,7 +343,8 @@ REST pour faire joli, pas pour Joachim<br />
 
 ## [fit] Caradisiac :heart: Pub
 
-^ [S] C'est une grande histoire d'amour
+^ [S]
+C'est une grande histoire d'amour
 
 ---
 
@@ -307,7 +363,8 @@ REST pour faire joli, pas pour Joachim<br />
 ![inline fit](images/commentaires_playstore_01.png)
 ![inline fit](images/commentaires_playstore_02.png)
 
-^ [S] A tel point qu'elle apparaît même dans les captures d'écran du store
+^ [S]
+A tel point qu'elle apparaît même dans les captures d'écran du store
 
 ---
 
