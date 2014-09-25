@@ -175,6 +175,26 @@ REST pour faire joli, pas pour Joachim<br />
 ![inline fit](images/Screen Shot 2014-09-25 at 14.40.59.png)
 ![inline fit](images/Screen Shot 2014-09-25 at 14.41.48.png)
 
+^ [S] A tel point qu'elle apparaît même dans les captures d'écran du store
+
+---
+
+# Publicité
+
+![](http://i.giphy.com/FKcC27kUBByAo.gif)
+
+---
+
+# Publicité
+
+## [fit] Caradisiac :heart: Pub
+
+^ [S] C'est une grande histoire d'amour
+
+---
+
+# Merci
+
 ---
 
 # Merci
