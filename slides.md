@@ -1,49 +1,40 @@
----
-
-# Questions ?
+# Titre
 
 ---
 
-# Merci
+# TL;WL:
 
 ---
 
-# Conclusions
-	
-- Screenshots
-- Applis sur les stores
-- Commentaires positifs
+# Plan
 
 ---
 
-# Fin projet
-	
-- La rétro	
-- Release-Congés-Release
+# On se présente
 
 ---
 
-# La recette (1 sprint -> 1 jour -> 10 minutes => release reportée)
-	
-- Les problèmes
-- Release Android réportée (G)
+# Caradisiac s'intègre dans le PEM CBM
+
+- Comment ça marche niveau projet
+- L'équipe (Xebia + CD)
+- 0 Coach Agile
+- Le dispositif
 
 ---
 
-# Les devs
-	
-- Complexité des WS XML et JSON
-- Comme on construit la page
-- iOS (KIF) (S)
-- Android (Spoon / Sonar) (G)
-- Analytics 
-- Les modifs WS: le lendemain en prod (devops au top)
-	- En fait... Coda
+# Intro
+
+- Durée du projet
+- Contexte (Plateformes: web, utilisateurs, Cordova)
+- But
+- Montrer phonegap
+- iOS: Alexis
 
 ---
 
 # La méthodo
-	
+
 - Les sprints (1 semaine)
 - Daily 0, Rétro 0
 - Démo (Chromecast, Apple TV)
@@ -53,41 +44,48 @@
 
 ---
 
-# Intro
-	
-- Durée du projet
-- Contexte (Plateformes: web, utilisateurs, Cordova)
-- But
-- Montrer phonegap
-- iOS: Alexis
+# Les devs
+
+- Complexité des WS XML et JSON
+- Comme on construit la page
+- iOS (KIF) (S)
+- Android (Spoon / Sonar) (G)
+- Analytics
+- Les modifs WS: le lendemain en prod (devops au top)
+	- En fait... Coda
 
 ---
 
-# Caradisiac s'intègre dans le PEM CBM
-	
-- Comment ça marche niveau projet
-- L'équipe (Xebia + CD)
-- 0 Coach Agile
-- Le dispositif
+# La recette (1 sprint -> 1 jour -> 10 minutes => release reportée)
+
+- Les problèmes
+- Release Android réportée (G)
 
 ---
 
-# On se présente
+# Fin projet
+
+- La rétro
+- Release-Congés-Release
 
 ---
 
-# Plan 
+# Conclusions
+
+- Screenshots
+- Applis sur les stores
+- Commentaires positifs
 
 ---
 
-# TL;WL:
+#Merci
 
 ---
 
-# Titre 
+# Questions ?
 
 
-=== 
+===
 
 Smileys années 90
-Commentaires : appli trsè participative, trouver exemples commentaires droles
+Commentaires : appli très participative, trouver exemples commentaires droles
