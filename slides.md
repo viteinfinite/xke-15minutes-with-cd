@@ -135,10 +135,6 @@ REST pour faire joli, pas pour Joachim<br />
 
 ---
 
-# Conclusions
-
----
-
 # Le résultat / Android
 
 ![inline fit](images/4.png)![inline fit](images/2.png)![inline fit](images/1.png)
@@ -157,6 +153,20 @@ REST pour faire joli, pas pour Joachim<br />
 
 ![inline fill](images/Screen Shot 2014-09-25 at 14.16.47.png)
 ![inline fill](images/Screen Shot 2014-09-25 at 14.27.30.png)
+
+---
+
+# Publicité
+
+![](http://i.giphy.com/FKcC27kUBByAo.gif)
+
+---
+
+# Publicité
+
+## [fit] Caradisiac :heart: Pub
+
+^ [S] C'est une grande histoire d'amour
 
 ---
 
@@ -179,17 +189,11 @@ REST pour faire joli, pas pour Joachim<br />
 
 ---
 
-# Publicité
-
-![](http://i.giphy.com/FKcC27kUBByAo.gif)
+# Conclusions
 
 ---
 
-# Publicité
-
-## [fit] Caradisiac :heart: Pub
-
-^ [S] C'est une grande histoire d'amour
+TODO
 
 ---
 
