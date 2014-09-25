@@ -119,10 +119,55 @@ REST pour faire joli, pas pour Joachim<br />
 
 ---
 
-# La recette (1 sprint -> 1 jour -> 10 minutes => release reportée)
+# La recette
 
-- Les problèmes
-- Release Android réportée (G)
+---
+
+- Release Android réportée (G) // TODO
+
+---
+
+# La recette
+
+## [fit] 10 minutes
+
+---
+
+# La recette
+
+## ~~1 sprint~~
+## ~~1 jour~~
+## ~~1 heure~~
+## 10 minutes
+
+---
+
+# La recette
+
+## ~~1 sprint~~
+## ~~1 jour~~
+## 1 heure
+
+---
+
+# La recette
+
+## ~~1 sprint~~
+## 1 jour
+
+---
+
+# La recette
+
+## ~~1 sprint~~
+
+## Nous sommes agiles !
+
+---
+
+# La recette
+
+## 1 sprint
 
 ---
 
