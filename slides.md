@@ -48,6 +48,8 @@ Google Images "Caradisiac"
 
 # La méthodo
 
+^ [S]
+
 ---
 
 # La méthodo
@@ -55,7 +57,7 @@ Google Images "Caradisiac"
 ## La rétro
 ### En fin de sprint
 
-^ [?]
+^ [S]
 Et ben... pas chez nous non plus - aucune rétro
 
 ---
@@ -65,7 +67,7 @@ Et ben... pas chez nous non plus - aucune rétro
 ## Daily
 ### tous les jours
 
-^ [?] Généralement on fait un daily tous les jours
+^ [S] Généralement on fait un daily tous les jours
 Et bien nous, on en faisait jamais
 
 ---
@@ -75,6 +77,8 @@ Et bien nous, on en faisait jamais
 ## Durée du sprint
 ### 1 semaine
 
+^ [S]
+
 ---
 
 # La méthodo
@@ -82,6 +86,8 @@ Et bien nous, on en faisait jamais
 ## Démo
 
 ![](images/demo_appletv.jpg)
+
+^ [S]
 
 ---
 
@@ -91,6 +97,7 @@ Et bien nous, on en faisait jamais
 
 ![](images/demo_chromecast.jpg)
 
+^ [S]
 
 ---
 
@@ -102,11 +109,15 @@ Et bien nous, on en faisait jamais
 
 ![](http://33.media.tumblr.com/e986dd7b4537cb6c5a11a684bc472ed2/tumblr_mx34dx3oty1t0a0k9o1_400.gif)
 
+^ [S]
+
 ---
 
 # La méthodo
 
 ## Magic estimation
+
+^ [S]
 
 ---
 
@@ -116,7 +127,7 @@ Et bien nous, on en faisait jamais
 
 ![inline](images/pilotage_xls.png)
 
-^ [?]
+^ [S]
 Oui Excel, l'outil agile
 
 ---
@@ -127,9 +138,9 @@ Oui Excel, l'outil agile
 
 ![inline](images/pilotage_xl.jpg)
 
-^[?]
+^[S]
 Au niveau de la méthodo, on a pris le choix de tout piloter par Excel<br />
-[? autre]
+[G]
 - Non non, "éxel", pas "ixel"
 
 ---
@@ -148,13 +159,16 @@ Au niveau de la méthodo, on a pris le choix de tout piloter par Excel<br />
 - Les modifs WS: le lendemain en prod (devops au top)
 	- En fait... Coda
 
+^ [S]
+
 ---
 
 # Les services web
 
 ![fit](images/ws_xoxo.png)
 
-^ [G]
+^ [S]
+Et je vous parle même pas des écrans de l'application où il faut appeler et cumuler 8 web services pour avoir un résultat
 *TODO: transition*
 
 ---
@@ -162,8 +176,7 @@ Au niveau de la méthodo, on a pris le choix de tout piloter par Excel<br />
 ![original](images/ws_full.png)
 
 ^ [G]
-Voila c'est cet espèce de truc déguelasse à parser qu'on a en permanence<br />
-Et je vous parle même pas des écrans de l'application où il faut appeler et cumuler 8 web services pour avoir un résultat
+Voila c'est cet espèce de truc déguelasse à parser qu'on a en permanence
 
 ---
 
@@ -197,6 +210,8 @@ Actuellement
 - Image: *"http://images.caradisiac.com" + logo[path] + "/S5-" + logo*
 
 ^ [G]
+En vérité c'est plutôt comme ça
+Il faut retrouver dans le XML plein de valeurs et les concaténer entre elles<br />
 Et encore, on a simplifié pour l'exemple parce qu'en vrai c'est plutôt ça
 
 ---
@@ -216,6 +231,10 @@ Idéalement
 ```
 
 ^ [G]
+Et puis tant qu'à faire, autant les rendre  super compliqués à être utilisés
+Idéalement pour un écran suivant j'ai besoin d'un WS avec un noeud model et le nom "Renault Clio 3" dans un champ name
+J'ai aussi besoin de l'image
+Normal quoi
 
 ---
 
@@ -234,18 +253,9 @@ Idéalement
 > *<![CDATA[]]>* ? Connaît pas
 
 ^ [G]
+En plus de ça
 Leurs WS contiennent des balises XML à des endroits qui devraient contenir du texte<br />
-En plus de nous filer les WS sans content-type ils nous filent des XML invalides
 Ça serait trop facile sinon
-
----
-
-![fit](images/ws_complexity.gif)
-
-^ [G]
-Mais du coup, sur Android j'ai 15 services en XML... et 1 en JSON<br />
-Connards<br />
-Sur iOS le ratio XML/JSON, c'est du 50/50
 
 ---
 
@@ -259,14 +269,26 @@ Sur iOS le ratio XML/JSON, c'est du 50/50
  - 1 WS est en JSON uniquement
 
 ^ [G]
-En parlant de truc triste, je vous ai pas encore parlé des WS
-REST pour faire joli, pas pour Joachim<br />
+- On va dire que c'est du REST
+- Avec un content-type text/plain parce qu'il faut pas déconner non plus<br />
+- Tous leurs services web sont en XML sauf 1
+- Du coup t'es obligé côté code de faire une stack qui gère les 2
 
 ---
 
 # La recette
 
 ^ [G]
+Par contre un truc qu'on aime pas, c'est leurs Services Webs
+
+---
+
+# La recette
+
+![](images/postpone_tears0.gif)
+
+^ [G]
+Mais bon c'est le client, c'est lui qui nous paye et du coup on l'aime bien quand même.
 
 ---
 
