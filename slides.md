@@ -58,7 +58,7 @@ Google Images "Caradisiac"
 ### En fin de sprint
 
 ^ [S]
-Et ben... pas chez nous non plus - aucune rétro
+Pour la rétro... euh... y'a pas de rétro
 
 ---
 
@@ -141,7 +141,7 @@ Oui Excel, l'outil agile
 ^[S]
 Au niveau de la méthodo, on a pris le choix de tout piloter par Excel<br />
 [G]
-- Non non, "éxel", pas "ixel"
+- "éxel", pas "ixel"
 
 ---
 
@@ -168,8 +168,11 @@ Au niveau de la méthodo, on a pris le choix de tout piloter par Excel<br />
 ![fit](images/ws_xoxo.png)
 
 ^ [S]
-Et je vous parle même pas des écrans de l'application où il faut appeler et cumuler 8 web services pour avoir un résultat
-*TODO: transition*
+Dans certains écrans de l'application, il faut appeler jusqu'à 8 services en même temps pour avoir les bonnes informations
+*TODO: transition sur l'avantage de leur déploiement rapide*
+L'avantage, c'est que si on a besoin d'un changement dans un WS c'est en prod le lendemain<br />
+DevOps les mecs ils sont au top<br />
+En fait... Coda
 
 ---
 
@@ -212,6 +215,7 @@ Actuellement
 ^ [G]
 En vérité c'est plutôt comme ça
 Il faut retrouver dans le XML plein de valeurs et les concaténer entre elles<br />
+[expliquer concatenation]<br />
 Et encore, on a simplifié pour l'exemple parce qu'en vrai c'est plutôt ça
 
 ---
@@ -231,9 +235,8 @@ Idéalement
 ```
 
 ^ [G]
-Et puis tant qu'à faire, autant les rendre  super compliqués à être utilisés
-Idéalement pour un écran suivant j'ai besoin d'un WS avec un noeud model et le nom "Renault Clio 3" dans un champ name
-J'ai aussi besoin de l'image
+Et puis tant qu'à faire, autant les rendre super compliqués à utiliser<br />
+Idéalement pour l'écran suivant j'ai besoin d'un WS avec champ pour le nom du modèle : "Renault Clio 3" et l'url de l'image<br />
 Normal quoi
 
 ---
@@ -253,8 +256,8 @@ Normal quoi
 > *<![CDATA[]]>* ? Connaît pas
 
 ^ [G]
-En plus de ça
-Leurs WS contiennent des balises XML à des endroits qui devraient contenir du texte<br />
+En plus de ça leurs WS XML sont invalides<br />
+Ils contiennent des tags à des endroits qui ne devraient pas en contenir<br />
 Ça serait trop facile sinon
 
 ---
@@ -269,10 +272,10 @@ Leurs WS contiennent des balises XML à des endroits qui devraient contenir du t
  - 1 WS est en JSON uniquement
 
 ^ [G]
-- On va dire que c'est du REST
-- Avec un content-type text/plain parce qu'il faut pas déconner non plus<br />
+- Leurs services web, on va dire qu'ils sont en REST
+- Avec un content-type incorrect sinon ça serait trop simple
 - Tous leurs services web sont en XML sauf 1
-- Du coup t'es obligé côté code de faire une stack qui gère les 2
+- Du coup t'es obligé côté code de faire une stack qui gère à la fois XML et JSON
 
 ---
 
@@ -306,7 +309,7 @@ Et me fait EXACTEMENT le même coup la semaine suivante
 ![](images/postpone_tears2.gif)
 
 ^ [G]
-Il teste que dalle, reporte la release
+Il teste que dalle pendant 1 mois, reporte la release parce qu'il teste le jour même
 
 ---
 
@@ -315,7 +318,7 @@ Il teste que dalle, reporte la release
 ![](images/postpone_tears3.gif)
 
 ^ [G]
-Je me fais chier à sortir son app dans les temps
+Je me fais chier à sortir son app dans les temps (qui sont déjà ultra courts)
 
 ---
 
@@ -324,7 +327,8 @@ Je me fais chier à sortir son app dans les temps
 ![](images/postpone_tears4.gif)
 
 ^ [G]
-Et ça c'est ma réaction quand il décale la release du projet
+Résultat : Release Android reportée d'un sprint<br />
+Vous imaginez ma réaction
 
 ---
 
@@ -333,22 +337,16 @@ Et ça c'est ma réaction quand il décale la release du projet
 ![](images/postpone_shocked.gif)
 
 ^ [G]
-Ça c'est un peu la réaction de notre PO quand il s'est rendu compte que la story correspondait pas à ce qu'il attendait.
-Par contre, ce qu'il attendait des stories, il nous l'écrivait pas dans les BDD... ça aurait été trop facile sinon
+Ça c'est un peu la réaction de notre PO quand il s'est rendu compte qu'une story correspondait pas à ce qu'il attendait pendant cette recette.
+Bien sûr il avait pas écrit les BDD de ce qu'il souhaitait vraiment et avait validé la story il y a 1 mois de cela
 
 ---
 
 # La recette
 
-##[fit]Ce qui devait arriver arriva
-
-###[fit]-> Release Android réportée
-
 ^ [G]
 Et le jour de la release
-Sinon c'est pas drôle<br />
-Et du coup "ce qui devait arriver arriva"... La release Android a été reportée<br />
-Le PO avait 1 mois et demi pour tester une feature, et le jour de la release finalement il se met à faire la recette
+Sinon c'est pas drôle
 
 ---
 
