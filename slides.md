@@ -259,20 +259,74 @@ Sur iOS le ratio XML/JSON, c'est du 50/50
  - 1 WS est en JSON uniquement
 
 ^ [G]
+En parlant de truc triste, je vous ai pas encore parlé des WS
 REST pour faire joli, pas pour Joachim<br />
 
 ---
 
 # La recette
 
+^ [G]
+
 ---
 
-- Release Android réportée (G) // TODO
+# La recette
 
-^ [G] Et du coup ça m'a bien fait chier pour Android
-Parce que la recette, notre PO le fait le jour de la release
-[SLIDE: NORMAL]
-Et, alors qu'il aurait pu tester depuis 1 mois et demi une feature... todo
+![](images/postpone_tears1.gif)
+
+^ [G]
+Et me fait EXACTEMENT le même coup la semaine suivante
+
+---
+
+# La recette
+
+![](images/postpone_tears2.gif)
+
+^ [G]
+Il teste que dalle, reporte la release
+
+---
+
+# La recette
+
+![](images/postpone_tears3.gif)
+
+^ [G]
+Je me fais chier à sortir son app dans les temps
+
+---
+
+# La recette
+
+![](images/postpone_tears4.gif)
+
+^ [G]
+Et ça c'est ma réaction quand il décale la release du projet
+
+---
+
+# La recette
+
+![](images/postpone_shocked.gif)
+
+^ [G]
+Ça c'est un peu la réaction de notre PO quand il s'est rendu compte que la story correspondait pas à ce qu'il attendait.
+Par contre, ce qu'il attendait des stories, il nous l'écrivait pas dans les BDD... ça aurait été trop facile sinon
+
+---
+
+# La recette
+
+##[fit]Ce qui devait arriver arriva
+
+###[fit]-> Release Android réportée
+
+^ [G]
+Et le jour de la release
+Sinon c'est pas drôle<br />
+Et du coup "ce qui devait arriver arriva"... La release Android a été reportée<br />
+Le PO avait 1 mois et demi pour tester une feature, et le jour de la release finalement il se met à faire la recette
 
 ---
 
@@ -280,8 +334,8 @@ Et, alors qu'il aurait pu tester depuis 1 mois et demi une feature... todo
 
 ## [fit] 10 minutes
 
-^ [?]
-Ensemble: La recette: 10 minutes !
+^ [G - S]
+"La recette : 10 minutes !"
 
 ---
 
@@ -292,6 +346,8 @@ Ensemble: La recette: 10 minutes !
 ## ~~1 heure~~
 ## 10 minutes
 
+^ [S]
+
 ---
 
 # La recette
@@ -300,12 +356,16 @@ Ensemble: La recette: 10 minutes !
 ## ~~1 jour~~
 ## 1 heure
 
+^ [S]
+
 ---
 
 # La recette
 
 ## ~~1 sprint~~
 ## 1 jour
+
+^ [S]
 
 ---
 
@@ -315,15 +375,21 @@ Ensemble: La recette: 10 minutes !
 
 ## Nous sommes agiles !
 
+^ [S]
+
 ---
 
 # La recette
 
 ## 1 sprint
 
+^ [S]
+
 ---
 
 # Fin projet
+
+^ [S]
 
 ---
 
@@ -331,19 +397,24 @@ Ensemble: La recette: 10 minutes !
 
 ![inline](images/retro.jpg)
 
+^ [S]
+
 ---
 
 # Le résultat / Android
 
 ![inline fit](images/screenshot_playstore_01.png)![inline fit](images/screenshot_playstore_02.png)![inline fit](images/screenshot_playstore_03.png)
 
-^ Bannières dans les screenshots
+^ [S]
+Bannières dans les screenshots
 
 ---
 
 # Le résultat / iOS
 
 ![](images/screenshot_appstore_01.jpeg)![inline fit](images/screenshot_appstore_02.jpeg)![inline fit](images/screenshot_appstore_03.jpeg)
+
+^ [S]
 
 ---
 
@@ -352,11 +423,15 @@ Ensemble: La recette: 10 minutes !
 ![inline fill](images/store_playstore.png)
 ![inline fill](images/store_appstore.png)
 
+^ [S]
+
 ---
 
 # Publicité
 
 ![](http://i.giphy.com/FKcC27kUBByAo.gif)
+
+^ [S]
 
 ---
 
@@ -401,7 +476,8 @@ TODO
 
 # Merci
 
-^ [?] On va vous parler de Caradisiac, une appli de news auto (comme turbo ou auto plus) qu'on a réalisé et qu'on a sorti dernièrement
+^ [?]
+On va vous parler de Caradisiac, une appli de news auto (comme turbo ou auto plus) qu'on a réalisé et qu'on a sorti dernièrement
 
 
 ---
@@ -421,5 +497,5 @@ Vous êtes vraiment un public formidable
 
 # Questions ?
 
-^ On aura pas le temps pour les questions
-
+^ [?]
+On aura pas le temps pour les questions
