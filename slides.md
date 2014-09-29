@@ -1,3 +1,5 @@
+slidenumbers: true
+
 ![](images/title_daytona.jpg)
 
 #[fit]15 minutes avec l'équipe Caradisiac
@@ -36,19 +38,44 @@ Google Images "Caradisiac"
 
 ---
 
-# Intro
+# Les besoins Android
 
-- Durée du projet
-- Contexte (Plateformes: web, utilisateurs, Cordova)
-- But
-- Montrer phonegap
-- iOS: Alexis
+![](images/dev_android_requirements.gif)
+
+---
+
+# Les besoins iOS
+
+![](images/dev_ios_requirements_alexis.png)
+
+^[S]
+
+---
+
+# Les besoins iOS
+
+![original](images/dev_ios_requirements.jpg)
+
+^[S]
+
+---
+
+# Les besoins, recap
+
+![](http://i.giphy.com/5fBH6zskBIJlslPld1C.gif)
+
+^[S]
+// TODO: photo ou vidéo vrai applis iOS et Android sur device
 
 ---
 
 # La méthodo
 
 ^ [S]
+
+---
+
+![](http://i.giphy.com/u7IqRIfOXQyc.gif)
 
 ---
 
@@ -58,7 +85,11 @@ Google Images "Caradisiac"
 ### En fin de sprint
 
 ^ [S]
-Pour la rétro... euh... y'a pas de rétro
+Et tous ceux qui participaient à la retro
+
+---
+
+![](http://i.giphy.com/5x89XRx3sBZFC.gif)
 
 ---
 
@@ -68,7 +99,8 @@ Pour la rétro... euh... y'a pas de rétro
 ### tous les jours
 
 ^ [S] Généralement on fait un daily tous les jours
-Et bien nous, on en faisait jamais
+Avec plein de monde
+Nous avons pris une photo du monde à nos dailies
 
 ---
 
@@ -145,21 +177,63 @@ Au niveau de la méthodo, on a pris le choix de tout piloter par Excel<br />
 
 ---
 
-//TODO: [S] iOS Code très peu spécifique 
+![](http://i.minus.com/ibfq8vy6b8MwMn.gif)
+
+^[S]
+- Devops est au top
 
 ---
 
-# Les devs
+![](http://i.giphy.com/MWVXE3Mn82XVS.gif)
 
-- Complexité des WS XML et JSON
-- Comment on construit la page
-- iOS (KIF) (S)
-- Android (Spoon / Sonar) (G)
-- Analytics
-- Les modifs WS: le lendemain en prod (devops au top)
-	- En fait... Coda
+^[S]
+car le code des WS est savoureux
+alt: http://i.giphy.com/5MNqK3rQNl1Ze.gif
+
+---
+
+# Les outils
+
+![](images/dev_sonar.png)
+
+^[S]
+La qualité du code de l'appli ne nous preouccupe pas trop...
+Car lé deploiement chez le client
+
+---
+
+# Les outils
+
+![](images/dev_spoon.png)
+
+^[S]
+
+---
+
+# Les outils
+
+![](images/dev_kif.png)
+
+^[S]
+Mais heureusement qu'on a des bonnes outils
+
+---
+
+# La page de détail
+
+![original](images/dev_components_full.png)
 
 ^ [S]
+// TODO : ajouter la pub plein écran
+
+---
+
+# La page de détail
+
+![original](images/dev_components_empty.png)
+
+^ [S]
+Comme par exemple dans cette page de détail
 
 ---
 
@@ -169,10 +243,6 @@ Au niveau de la méthodo, on a pris le choix de tout piloter par Excel<br />
 
 ^ [S]
 Dans certains écrans de l'application, il faut appeler jusqu'à 8 services en même temps pour avoir les bonnes informations
-*TODO: transition sur l'avantage de leur déploiement rapide*
-L'avantage, c'est que si on a besoin d'un changement dans un WS c'est en prod le lendemain<br />
-DevOps les mecs ils sont au top<br />
-En fait... Coda
 
 ---
 
@@ -394,6 +464,7 @@ Sinon c'est pas drôle
 ## 1 sprint
 
 ^ [S]
+...et nous on fait pas de recette d'un sprint
 
 ---
 
@@ -402,6 +473,7 @@ Sinon c'est pas drôle
 ## Nous sommes agiles !
 
 ^ [S]
+Nous sommes agiles...
 
 ---
 
@@ -416,17 +488,24 @@ Sinon c'est pas drôle
 ![inline](images/retro.jpg)
 
 ^ [S]
+...et la rétro de fin projet
 
 ---
 
 # [fit] :heart:
 ![](images/retro.jpg)
 
+^ [S]
+...comme nous aimons les pratiques agiles
+
 ---
 
 # Publicité
 
 ## [fit] Caradisiac :heart: Pub
+
+^ [S]
+Eh oui, Caradisiac aime la pub
 
 ---
 
@@ -497,7 +576,7 @@ Les commentaires positifs c'est surtout grâce aux fonctionnalités exclusives d
 ![inline fit](images/commentaires_itunes_03.png)
 
 ^ [S]
-Linette est Aline
+Linette; le DP s'appelle Aline, probablement une omonime
 
 ---
 
@@ -549,7 +628,7 @@ TODO
 
 # Merci
 
-^ [?]
+^ [G]
 On va vous parler de Caradisiac, une appli de news auto (comme turbo ou auto plus) qu'on a réalisé et qu'on a sorti dernièrement
 
 
@@ -559,7 +638,7 @@ On va vous parler de Caradisiac, une appli de news auto (comme turbo ou auto plu
 
 ![](images/thanks_clap.gif)
 
-^ [?]
+^ [G]
 Mais merci d'être venus si nombreux<br />
 [? autre]
 Même si vous aviez pas trop le choix<br />
@@ -570,5 +649,5 @@ Vous êtes vraiment un public formidable
 
 # Questions ?
 
-^ [?]
-On aura pas le temps pour les questions
+^ [G]
+OK, On aura pas le temps pour les questions
