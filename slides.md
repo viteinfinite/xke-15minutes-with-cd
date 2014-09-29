@@ -254,7 +254,6 @@ alt: http://i.giphy.com/5MNqK3rQNl1Ze.gif
 
 ^[S]
 La qualité du code de l'appli ne nous preouccupe pas trop...
-Car lé deploiement chez le client
 
 ---
 
