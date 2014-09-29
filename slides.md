@@ -20,7 +20,7 @@ Ce que vous pouvez aussi retenir, c'est ce que renvoie la recherche Google Image
 - Pôle d'Expertise Mobilité - Xebia Studio
 - Sprints Scrum d'une semaine
 - Complexité des services web
-- La recette 
+- La recette
 - Application sortie et bien notée
 
 ^ [G]
@@ -200,7 +200,7 @@ Au niveau de la méthodo, on a pris le choix de tout piloter par Excel<br />
 
 ---
 
-//TODO: [S] iOS Code très peu spécifique 
+//TODO: [S] iOS Code très peu spécifique
 
 ---
 
@@ -541,7 +541,7 @@ Dont la pub!
 ## [fit] :star::star::star::star::star:
 
 ^ [S]
-Les commentaires positifs c'est surtout grâce aux fonctionnalités exclusives de l'application 
+Les commentaires positifs c'est surtout grâce aux fonctionnalités exclusives de l'application
 
 ---
 
