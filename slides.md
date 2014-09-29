@@ -12,33 +12,89 @@ Merci de nous avoir écouté
 
 ![fit](images/title_screenshot_caradisiac_search.png)
 
-^ On cherchait une image de fond pour notre présentation<br />
-Google Images "Caradisiac"
+^ [G]
+Ce que vous pouvez aussi retenir, c'est ce que renvoie la recherche Google Images pour Caradisiac
 
 ---
 
-# TL;WL:
+# TOO LONG; WON'T LISTEN:
+
+- Pôle d'Expertise Mobilité - Xebia Studio
+- Sprints Scrum d'une semaine
+- Complexité des services web
+- La recette
+- Application sortie et bien notée
+
+^ [G]
+Mais ce qu'il faut retenir
 
 ---
 
 # Plan
 
+^ [G]
+Le plan...
+Alors on a parlé de plein de trucs cools
+
+<La flemme,
+Personne lit ça>
+
 ---
 
 # On se présente
 
+![](images/team_simone.png)
+![](images/team_gautier.jpg)
+
+https://twitter.com/viteinfinite
+
+https://plus.google.com/+GautierMechling
+
+^ [G]
+Et on a oublié de se présenter<br />
+Lui c'est Simone, il fait de l'iOS
+Et moi Gautier sur Android<br />
+On est consultant chez Xebia
+
 ---
 
-# Caradisiac s'intègre dans le PEM CBM
+# TMA Car&Boat Mobilité
 
-- Comment ça marche niveau projet
-- L'équipe (Xebia + CD)
-- 0 Coach Agile
-- Le dispositif
+![](images/team_thibaud.jpg)
+![](images/team_francois.jpg)
+![](images/team_thierry.jpg)
+
+^ [G]
+En vrai on appelle ça de la TMA. C'est un projet Studio supervisé par François Laurain<br />
+On a un interlocuteur de leur côté, le PO<br />
+J'ai pas trouvé de photo de notre PO, mais il ressemble un peu à un ours mignon donc voila, c'est lui<br />
 
 ---
 
 # Les besoins Android
+# Pôle d'Expertise Mobilité
+
+![](images/team_thibaud.jpg)
+![](images/team_francois.jpg)
+
+^ [G]
+On était dans ce que Thibaud appelle intelligemment le PEM CBM.<br />
+C'est un contrat sur 1 an où Xebia doit developper et maintenir leurs applications mobiles<br />
+C'est plutôt cool
+
+---
+
+# Notre coach agile
+
+![inline](images/coachs_agile.png)
+
+^ [G] Qui est l'heureux gagnant ?<br />
+D'ailleurs il est dans la salle ou pas ? (chercher dans la salle)<br />
+Non... normal on en avait pas
+
+---
+
+# Intro
 
 ![](images/dev_android_requirements.gif)
 
@@ -565,7 +621,7 @@ Dont la pub!
 ## [fit] :star::star::star::star::star:
 
 ^ [S]
-Les commentaires positifs c'est surtout grâce aux fonctionnalités exclusives de l'application 
+Les commentaires positifs c'est surtout grâce aux fonctionnalités exclusives de l'application
 
 ---
 
