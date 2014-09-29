@@ -391,9 +391,7 @@ Sinon c'est pas drôle
 
 # La recette
 
-## ~~1 sprint~~
-
-## Nous sommes agiles !
+## 1 sprint
 
 ^ [S]
 
@@ -401,7 +399,7 @@ Sinon c'est pas drôle
 
 # La recette
 
-## 1 sprint
+## Nous sommes agiles !
 
 ^ [S]
 
@@ -421,37 +419,8 @@ Sinon c'est pas drôle
 
 ---
 
-# Le résultat / Android
-
-![inline fit](images/screenshot_playstore_01.png)![inline fit](images/screenshot_playstore_02.png)![inline fit](images/screenshot_playstore_03.png)
-
-^ [S]
-Bannières dans les screenshots
-
----
-
-# Le résultat / iOS
-
-![](images/screenshot_appstore_01.jpeg)![inline fit](images/screenshot_appstore_02.jpeg)![inline fit](images/screenshot_appstore_03.jpeg)
-
-^ [S]
-
----
-
-# Applis sur les Stores
-
-![inline fill](images/store_playstore.png)
-![inline fill](images/store_appstore.png)
-
-^ [S]
-
----
-
-# Publicité
-
-![](http://i.giphy.com/FKcC27kUBByAo.gif)
-
-^ [S]
+# [fit] :heart:
+![](images/retro.jpg)
 
 ---
 
@@ -459,8 +428,65 @@ Bannières dans les screenshots
 
 ## [fit] Caradisiac :heart: Pub
 
+---
+
+# Publicité
+
+![original,inline](images/pub_01.png)
+
+^[S]
+...partout
+
+---
+
+# Publicité
+
+![original,inline](images/pub_02.jpeg)
+
+^[S]
+...partout
+
+---
+
+# Publicité
+
+![original,inline](images/pub_03.png)
+
+^[S]
+Au fait... Il y a de la pub partout
+
+---
+
+![](http://i.giphy.com/FKcC27kUBByAo.gif)
+
 ^ [S]
-C'est une grande histoire d'amour
+Une grande histoire d'amour...
+Mais comme beaucoup d'histoires d'amour, elles peuvent mal tourner
+
+---
+
+## [fit] :heart::heart::heart::heart::heart:
+
+# [fit] Publicité
+
+^ [S]
+En fait la pub chez Caradisiac c'est plutôt grande histoire d'amour
+
+---
+
+## [fit] :star::star::star::star::star:
+
+# [fit] Publicité
+
+^ [S]
+Dont la pub!
+
+---
+
+## [fit] :star::star::star::star::star:
+
+^ [S]
+Les commentaires positifs c'est surtout grâce aux fonctionnalités exclusives de l'application 
 
 ---
 
@@ -483,6 +509,33 @@ Linette est Aline
 ^ [S]
 Voici d'ailleurs quelques commentaires sur les stores
 A tel point qu'elle apparaît même dans les captures d'écran du store
+
+---
+
+# Les applis sur les Stores
+
+![inline fill](images/store_playstore.png)
+![inline fill](images/store_appstore.png)
+
+^ [S]
+Malgré l'icône nous avons même eu des commentaires positifs
+
+---
+
+# L'appli / Android
+
+![inline fit](images/screenshot_playstore_01.png)![inline fit](images/screenshot_playstore_02.png)![inline fit](images/screenshot_playstore_03.png)
+
+^ [S]
+Bannières dans les screenshots
+
+---
+
+# L'appli / iOS
+
+![](images/screenshot_appstore_01.jpeg)![inline fit](images/screenshot_appstore_02.jpeg)![inline fit](images/screenshot_appstore_03.jpeg)
+
+^ [S]
 
 ---
 
