@@ -253,7 +253,7 @@ alt: http://i.giphy.com/5MNqK3rQNl1Ze.gif
 ![](images/dev_sonar.png)
 
 ^[S]
-La qualité du code de l'appli ne nous preouccupe pas trop...
+La qualité du code de l'appli ne nous preoccupe pas trop...
 
 ---
 
@@ -270,7 +270,7 @@ La qualité du code de l'appli ne nous preouccupe pas trop...
 ![](images/dev_kif.png)
 
 ^[S]
-Mais heureusement qu'on a des bonnes outils
+Mais heureusement qu'on a des bons outils
 
 ---
 
@@ -631,7 +631,7 @@ Les commentaires positifs c'est surtout grâce aux fonctionnalités exclusives d
 ![inline fit](images/commentaires_itunes_03.png)
 
 ^ [S]
-Linette; le DP s'appelle Aline, probablement une omonime
+Linette; le DP s'appelle Aline, probablement un homonyme
 
 ---
 
