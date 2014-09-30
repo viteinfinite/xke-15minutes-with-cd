@@ -111,7 +111,8 @@ Une chose pas plus mal c'est notre coach agile
 ![](images/dev_android_requirements.gif)
 
 ^ S
-Allo? ipad
+Allo? ipad 
+Mamma envoyé 3kg de pâtes
 
 ^ [G]
 Pour Android, on est parti d'une application PhoneGap tellement pourrie qu'ils ont décidés de tout refaire de zéro
@@ -134,15 +135,23 @@ Pour Android, on est parti d'une application PhoneGap tellement pourrie qu'ils o
 ![original](images/dev_ios_requirements.jpg)
 
 ^[S]
+Objectif c'était d'adapter l'application iPad à la taille de l'iPhone
 
 ---
 
 # Les besoins, recap
 
-![](http://i.giphy.com/5fBH6zskBIJlslPld1C.gif)
+![](images/dev_requirements.gif)
 
 ^[S]
-// TODO: photo ou vidéo vrai applis iOS et Android sur device
+Le client voulait créer des applications comme celles-ci
+
+
+---
+
+# La méthodo
+
+^ [S]
 
 ---
 
@@ -166,13 +175,7 @@ Pour Android, on est parti d'une application PhoneGap tellement pourrie qu'ils o
 
 ---
 
-# La méthodo
-
-^ [S]
-
----
-
-![](http://i.giphy.com/u7IqRIfOXQyc.gif)
+![](http://i.giphy.com/1MzKjWBamP58Q.gif)
 
 ---
 
@@ -182,7 +185,7 @@ Pour Android, on est parti d'une application PhoneGap tellement pourrie qu'ils o
 ### En fin de sprint
 
 ^ [S]
-Et tous ceux qui participaient à la retro
+et une rétro de fin sprint très intense
 
 ---
 
@@ -197,7 +200,6 @@ Et tous ceux qui participaient à la retro
 
 ^ [S] Généralement on fait un daily tous les jours
 Avec plein de monde
-Nous avons pris une photo du monde à nos dailies
 
 ---
 
@@ -257,47 +259,99 @@ Au niveau de la méthodo, on a pris le choix de tout piloter par Excel<br />
 ![](http://i.minus.com/ibfq8vy6b8MwMn.gif)
 
 ^[S]
-- Devops est au top
+- et le déploiement chez le client est au top, dans le respect des meilleures méthodologies DevOps
+
+^[G]
+Je le connais lui !
+
 
 ---
 
 ![](http://i.giphy.com/MWVXE3Mn82XVS.gif)
 
 ^[S]
-car le code des WS est savoureux
+...savoureux
 
 ---
 
-# Les outils
+# Les outils : SonarQube
 
-![](images/dev_sonar.png)
+![inline](images/dev_sonar.png)
 
 ^[S]
-La qualité du code de l'appli ne nous preoccupe pas trop...
+La qualité du code de l'appli cliente ne nous preoccupe pas trop car le code des WS est [savoureux]
 
 ---
 
 # Les outils
 
-![](images/dev_spoon.png)
+![inline](images/dev_schema.png)
 
 ^[S]
 
 ---
 
-# Les outils
+# Les outils : mam.xebia.fr
 
-![](images/dev_kif.png)
+![inline](images/dev_mam_screen.png)
+
+^[S]
+Finalement le binaire est deploié sur la plateforme de distribution d'applications Xebia
+
+---
+
+# Les outils : Node
+
+![inline](images/dev_logo_node.png)
+
+^[S]
+Nous avons mis en place un serveur de mock avec Node
+
+---
+
+# Les outils : Spoon
+
+![inline](images/dev_spoon.png)
+
+^[S]
+
+---
+
+# Les outils : KIF
+
+![inline](images/dev_kif.png)
+
+^[S]
+et fonctionnels
+
+---
+
+# Les outils : Testing
+
+![inline](images/dev_logo_testing.png)
+
+^[S]
+executer les tests unitaires
+
+---
+
+# Les outils : Jenkins
+
+![inline](images/dev_logo_jenkins.png)
+
+^[S]
+À l'interieur d'un job Jenkins
+qui s'occupe de
 
 ---
 
 # Les outils
 
-![inline](images/dev_logo_testing.png)![inline 50%](images/dev_logo_jenkins.png)![inline](images/dev_logo_node.png)![inline](images/dev_logo_mam.png)
+![inline](images/dev_schema.png)
 
 ^[S]
 Mais heureusement qu'on a des bons outils
-// WIP
+Notre usine logicielle recupère le code depuis BitBucket
 
 ---
 
@@ -306,6 +360,7 @@ Mais heureusement qu'on a des bons outils
 ![original](images/dev_components_full.png)
 
 ^ [S]
+Pour la créer il faut récuperer du JSON...
 
 ---
 
@@ -699,7 +754,7 @@ A tel point qu'elle apparaît même dans les captures d'écran du store
 ![inline fill](images/store_appstore.png)
 
 ^ [S]
-Malgré l'icône nous avons même eu des commentaires positifs
+Vous serez étonnés mais malgré l'icône nous avons même eu des commentaires positifs
 
 ---
 
