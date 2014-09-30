@@ -28,6 +28,9 @@ Ce que vous pouvez aussi retenir, c'est ce que renvoie la recherche Google Image
 ^ [G]
 Mais ce qu'il faut retenir
 
+Ici on bash un peu mais le projet s'est plutot bien deroule dans l'ensemble malgré la non agilité évidente de notre PO qu'on a tenté de remettre sur le bon chemin a quelques reprises
+
+
 ---
 
 # Plan
@@ -95,6 +98,10 @@ Non... normal on en avait pas
 ---
 
 # Intro
+
+---
+
+# Les besoins Android
 
 ![](images/dev_android_requirements.gif)
 
@@ -244,7 +251,6 @@ Au niveau de la méthodo, on a pris le choix de tout piloter par Excel<br />
 
 ^[S]
 car le code des WS est savoureux
-alt: http://i.giphy.com/5MNqK3rQNl1Ze.gif
 
 ---
 
@@ -268,6 +274,12 @@ La qualité du code de l'appli ne nous preoccupe pas trop...
 # Les outils
 
 ![](images/dev_kif.png)
+
+---
+
+# Les outils
+
+![](images/dev_ci.png)
 
 ^[S]
 Mais heureusement qu'on a des bons outils
@@ -566,6 +578,15 @@ Eh oui, Caradisiac aime la pub
 
 # Publicité
 
+![original,inline](images/pub_04.png)
+
+^[S]
+...partout
+
+---
+
+# Publicité
+
 ![original,inline](images/pub_01.png)
 
 ^[S]
@@ -604,7 +625,7 @@ Mais comme beaucoup d'histoires d'amour, elles peuvent mal tourner
 # [fit] Publicité
 
 ^ [S]
-En fait la pub chez Caradisiac c'est plutôt grande histoire d'amour
+Au fait la pub chez Caradisiac c'est plutôt grande histoire d'amour
 
 ---
 
@@ -675,9 +696,8 @@ Bannières dans les screenshots
 
 # Conclusions
 
----
-
-TODO
+^ [G]
+En commençant par la conclusion...
 
 ---
 
@@ -695,9 +715,9 @@ On va vous parler de Caradisiac, une appli de news auto (comme turbo ou auto plu
 
 ^ [G]
 Mais merci d'être venus si nombreux<br />
-[? autre]
+[S]
 Même si vous aviez pas trop le choix<br />
-[?]
+[G]
 Vous êtes vraiment un public formidable
 
 ---
