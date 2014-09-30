@@ -4,9 +4,11 @@ slidenumbers: true
 
 #[fit]15 minutes avec l'équipe Caradisiac
 
-^ Comme vous pouvez le voir, c'était plutôt éprouvant...<br />
-C'était 15 minutes avec l'équipe Caradisiac<br />
-Merci de nous avoir écouté.
+^ G-S
+Bonjour; voici 15 minutes avec l'équipe Caradisiac
+
+^ S
+discours off pates
 
 ---
 
@@ -52,7 +54,7 @@ https://twitter.com/viteinfinite
 https://plus.google.com/+GautierMechling
 
 ^ [G]
-Et on a oublié de se présenter<br />
+Et on va se présenter<br />
 Lui c'est Simone, il fait de l'iOS
 Et moi Gautier sur Android<br />
 On est consultant chez Xebia
@@ -80,9 +82,9 @@ J'ai pas trouvé de photo de notre PO, mais il ressemble un peu à un ours migno
 ![](images/team_francois.jpg)
 
 ^ [G]
-Ou peut-être juste qu'il y avait pas le budget.<br />
-On a pas encore parlé du contrat, on est dans un contrat similaire à de la TMA qui s'appelle le PEM CBM.<br />
-C'est un contrat Studio sur 1 an où Xebia doit developper et maintenir leurs applications mobiles<br />
+Ou peut-être juste qu'il y avait pas le budget.
+
+^ Au final Caradisiac c'est un contrat Studio avec CarAndBoat qui édite entre autres l'application LaCentrale sur 1 an où Xebia doit developper et maintenir leurs applications mobiles<br />
 C'est plutôt cool
 
 ---
@@ -100,11 +102,22 @@ En vrai on est le rêve des coachs agiles, l'équipe auto-organisée
 
 # Intro
 
+Une chose pas plus mal c'est notre coach agile
+
 ---
 
 # Les besoins Android
 
 ![](images/dev_android_requirements.gif)
+
+^ S
+Allo? ipad
+
+^ [G]
+Pour Android, on est parti d'une application PhoneGap tellement pourrie qu'ils ont décidés de tout refaire de zéro
+
+^ Et c'est pas plus mal
+
 
 ---
 
@@ -130,6 +143,26 @@ En vrai on est le rêve des coachs agiles, l'équipe auto-organisée
 
 ^[S]
 // TODO: photo ou vidéo vrai applis iOS et Android sur device
+
+---
+
+# La méthodo
+
+## Démo
+
+![](images/demo_appletv.jpg)
+
+^ [S]
+
+---
+
+# La méthodo
+
+## Démo
+
+![](images/demo_chromecast.jpg)
+
+^ [S]
 
 ---
 
@@ -172,26 +205,6 @@ Nous avons pris une photo du monde à nos dailies
 
 ## Durée du sprint
 ### 1 semaine
-
-^ [S]
-
----
-
-# La méthodo
-
-## Démo
-
-![](images/demo_appletv.jpg)
-
-^ [S]
-
----
-
-# La méthodo
-
-## Démo
-
-![](images/demo_chromecast.jpg)
 
 ^ [S]
 
@@ -309,16 +322,16 @@ Comme par exemple dans cette page de détail
 
 ![fit](images/ws_xoxo.png)
 
-^ [S]
-Dans certains écrans de l'application, il faut appeler jusqu'à 8 services en même temps pour avoir les bonnes informations
+^ [G]
+Dans certains écrans de l'application, il faut appeler jusqu'à 9 services en même temps pour avoir les bonnes informations
+-STOP-
 
 ---
 
 ![original](images/ws_full.png)
 
 ^ [G]
-Voila c'est cet espèce de truc super galère à parser qu'on a en permanence<br />
--STOP-
+Voila c'est cet espèce de truc super galère à parser qu'on a en permanence
 
 ---
 
@@ -507,6 +520,8 @@ Sinon c'est pas drôle
 
 ^ [S]
 
+^ [G] Oui
+
 ---
 
 # La recette
@@ -517,6 +532,8 @@ Sinon c'est pas drôle
 
 ^ [S]
 
+^ [G] Non
+
 ---
 
 # La recette
@@ -526,6 +543,8 @@ Sinon c'est pas drôle
 
 ^ [S]
 
+^ [G] Non
+
 ---
 
 # La recette
@@ -534,6 +553,8 @@ Sinon c'est pas drôle
 
 ^ [S]
 ...et nous on fait pas de recette d'un sprint
+
+^ [G] Non
 
 ---
 
@@ -656,6 +677,9 @@ Les commentaires positifs c'est surtout grâce aux fonctionnalités exclusives d
 ^ [S]
 Linette; le DP s'appelle Aline, probablement un homonyme
 
+^ [G]
+Ou pas
+
 ---
 
 # Commentaires positifs
@@ -699,7 +723,11 @@ Bannières dans les screenshots
 # Conclusions
 
 ^ [G]
-En commençant par la conclusion...
+Qui a installé l'application ?
+
+^ [S]
+Bon, personne.
+Ca fait plaisir, merci.
 
 ---
 
@@ -716,10 +744,12 @@ Aujourd'hui, on va vous parler de Caradisiac, une application native de news aut
 ![](images/thanks_clap.gif)
 
 ^ [G]
-Mais merci d'être venus si nombreux<br />
-[S]
-Même si vous aviez pas trop le choix<br />
-[G]
+Mais merci d'être venus si nombreux
+
+^ [S]
+Même si vous aviez pas trop le choix
+
+^ [G]
 Vous êtes vraiment un public formidable
 
 ---
@@ -728,3 +758,5 @@ Vous êtes vraiment un public formidable
 
 ^ [G]
 OK, On aura pas le temps pour les questions
+
+---
