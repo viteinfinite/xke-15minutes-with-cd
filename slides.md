@@ -6,14 +6,14 @@ slidenumbers: true
 
 ^ Comme vous pouvez le voir, c'était plutôt éprouvant...<br />
 C'était 15 minutes avec l'équipe Caradisiac<br />
-Merci de nous avoir écouté
+Merci de nous avoir écouté.
 
 ---
 
 ![fit](images/title_screenshot_caradisiac_search.png)
 
 ^ [G]
-Ce que vous pouvez aussi retenir, c'est ce que renvoie la recherche Google Images pour Caradisiac
+Maintenant, je vous invite à rechercher Caradisiac, non pas sur Google Images parce que vous allez avoir du NSFW mais plutôt sur Google Play et sur l'App Store.
 
 ---
 
@@ -21,15 +21,13 @@ Ce que vous pouvez aussi retenir, c'est ce que renvoie la recherche Google Image
 
 - Pôle d'Expertise Mobilité - Xebia Studio
 - Sprints Scrum d'une semaine
-- Complexité des services web
-- La recette
+- Services Web gérés en interne par le client
+- La recette gérée par le client
 - Application sortie et bien notée
 
 ^ [G]
-Mais ce qu'il faut retenir
-
-Ici on bash un peu mais le projet s'est plutot bien deroule dans l'ensemble malgré la non agilité évidente de notre PO qu'on a tenté de remettre sur le bon chemin a quelques reprises
-
+Mais ce qu'il faut retenir [citer]<br />
+Le projet s'est plutÔt bien déroulé dans l'ensemble malgré la non agilité évidente de notre PO qu'on a tenté de remettre sur le droit chemin à plusieurs reprises
 
 ---
 
@@ -61,14 +59,15 @@ On est consultant chez Xebia
 
 ---
 
-# TMA Car&Boat Mobilité
+# Les besoins Android
+# Pôle d'Expertise Mobilité
 
 ![](images/team_thibaud.jpg)
 ![](images/team_francois.jpg)
 ![](images/team_thierry.jpg)
 
 ^ [G]
-En vrai on appelle ça de la TMA. C'est un projet Studio supervisé par François Laurain<br />
+C'est un projet Studio supervisé par François Laurain<br />
 On a un interlocuteur de leur côté, le PO<br />
 J'ai pas trouvé de photo de notre PO, mais il ressemble un peu à un ours mignon donc voila, c'est lui<br />
 
@@ -81,8 +80,9 @@ J'ai pas trouvé de photo de notre PO, mais il ressemble un peu à un ours migno
 ![](images/team_francois.jpg)
 
 ^ [G]
-On était dans ce que Thibaud appelle intelligemment le PEM CBM.<br />
-C'est un contrat sur 1 an où Xebia doit developper et maintenir leurs applications mobiles<br />
+Ou peut-être juste qu'il y avait pas le budget.<br />
+On a pas encore parlé du contrat, on est dans un contrat similaire à de la TMA qui s'appelle le PEM CBM.<br />
+C'est un contrat Studio sur 1 an où Xebia doit developper et maintenir leurs applications mobiles<br />
 C'est plutôt cool
 
 ---
@@ -94,6 +94,7 @@ C'est plutôt cool
 ^ [G] Qui est l'heureux gagnant ?<br />
 D'ailleurs il est dans la salle ou pas ? (chercher dans la salle)<br />
 Non... normal on en avait pas
+En vrai on est le rêve des coachs agiles, l'équipe auto-organisée
 
 ---
 
@@ -316,7 +317,8 @@ Dans certains écrans de l'application, il faut appeler jusqu'à 8 services en m
 ![original](images/ws_full.png)
 
 ^ [G]
-Voila c'est cet espèce de truc déguelasse à parser qu'on a en permanence
+Voila c'est cet espèce de truc super galère à parser qu'on a en permanence<br />
+-STOP-
 
 ---
 
@@ -437,7 +439,7 @@ Mais bon c'est le client, c'est lui qui nous paye et du coup on l'aime bien quan
 ![](images/postpone_tears1.gif)
 
 ^ [G]
-Et me fait EXACTEMENT le même coup la semaine suivante
+Et me fait EXACTEMENT le même coup la semaine d'après
 
 ---
 
@@ -704,7 +706,7 @@ En commençant par la conclusion...
 # Merci
 
 ^ [G]
-On va vous parler de Caradisiac, une appli de news auto (comme turbo ou auto plus) qu'on a réalisé et qu'on a sorti dernièrement
+Aujourd'hui, on va vous parler de Caradisiac, une application native de news auto (comme turbo ou auto plus) qu'on a réalisé et qu'on a sorti dernièrement
 
 
 ---
