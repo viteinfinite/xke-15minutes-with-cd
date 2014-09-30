@@ -279,10 +279,11 @@ La qualité du code de l'appli ne nous preoccupe pas trop...
 
 # Les outils
 
-![](images/dev_ci.png)
+![inline](images/dev_logo_testing.png)![inline 50%](images/dev_logo_jenkins.png)![inline](images/dev_logo_node.png)![inline](images/dev_logo_mam.png)
 
 ^[S]
 Mais heureusement qu'on a des bons outils
+// WIP
 
 ---
 
@@ -291,7 +292,6 @@ Mais heureusement qu'on a des bons outils
 ![original](images/dev_components_full.png)
 
 ^ [S]
-// TODO : ajouter la pub plein écran
 
 ---
 
